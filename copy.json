@@ -1,0 +1,70 @@
+{
+  "brand": "AppConflict",
+  "tagline": "Find conflicts, compare apps, avoid disasters",
+  "hero_headline": "App conflicts, price hikes, discontinued apps — check what you're running",
+  "hero_sub": "Find out if an app will slow your store, conflict with your current setup, or suddenly raise prices",
+  "pains": [
+    "Can't see real app conflicts, performance impact, or pricing history — you're guessing blind",
+    "No reliable alternatives when apps suddenly raise prices or stop updating",
+    "One wrong app installation slows your store to a crawl, but you can't find what's causing it"
+  ],
+  "features": [
+    {
+      "title": "App Conflict Database",
+      "desc": "Known conflicts, exact store performance impact, and migration checklists in one place"
+    },
+    {
+      "title": "Price Change Tracker",
+      "desc": "Track pricing history, get alerts for discontinued apps, find cheaper alternatives instantly"
+    },
+    {
+      "title": "Alternative Finder",
+      "desc": "Smart recommendations by feature category or 'I use X, want to switch' matching"
+    },
+    {
+      "title": "Crowdsourced Real Data",
+      "desc": "Conflict and performance feedback from real merchants, not vendor claims"
+    }
+  ],
+  "how": [
+    {
+      "step": "Search the app you want to install",
+      "desc": "Enter the app name to see conflicts, store impact, and pricing trends"
+    },
+    {
+      "step": "Compare alternatives side-by-side",
+      "desc": "Compare features, pricing, and reviews to make a smarter choice"
+    },
+    {
+      "step": "Install or migrate with confidence",
+      "desc": "Learn exact migration steps and backup precautions to avoid problems"
+    }
+  ],
+  "proof": "Join our beta to co-build the most trusted app selection database for Shopify merchants",
+  "cta": "Join Beta",
+  "cta_sub": "Free beta access, your feedback shapes the roadmap",
+  "faq": [
+    {
+      "q": "Where does your data come from?",
+      "a": "Real merchant feedback and hands-on testing, continuously updated, never fabricated"
+    },
+    {
+      "q": "Is beta free? Will you charge merchants later?",
+      "a": "Beta is free. After launch, we monetize through app partner revenue sharing, zero direct merchant fees"
+    },
+    {
+      "q": "What if my app isn't in the database?",
+      "a": "Submit crowdsourced data or opt for paid custom conflict research for any app"
+    }
+  ],
+  "seo_pages": [
+    "Shopify app conflicts: which apps don't work together",
+    "Shopify app pricing history: price changes 2023–2024",
+    "Shopify app alternatives: switch when prices spike",
+    "Does this Shopify app slow down my store: performance tests",
+    "Shopify app migration guide: safe switching steps",
+    "Shopify top apps compared: Oberlo vs Printful vs alternatives"
+  ],
+  "disclaimer": "Beta verification page. Crowdsourced conflict data varies by store configuration; always test in a staging environment before production install",
+  "lang": "en"
+}
